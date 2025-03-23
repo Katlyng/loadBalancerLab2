@@ -1,0 +1,23 @@
+{
+    "nodes": [
+      {
+        "name": "Nodo 1",
+        "ip": "192.168.1.101",
+        "user": "usuario",
+        "storage_path": "/var/lib/docker"
+      },
+      {
+        "name": "Nodo 2",
+        "ip": "192.168.1.102",
+        "user": "usuario",
+        "storage_path": "/var/lib/docker"
+      },
+      {
+        "name": "Nodo 3",
+        "ip": "192.168.1.103",
+        "user": "usuario",
+        "storage_path": "/var/lib/docker"
+      }
+    ]
+  }
+  
